@@ -1,0 +1,10 @@
+spring:
+  application:
+      name: leaf-random-api
+  datasource:
+    url: jdbc:mysql://localhost:3306/api
+    username: root
+    password: 1234
+server:
+  port: 8081
+
