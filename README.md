@@ -24,17 +24,20 @@
 ## 界面展示
 
 - 登录注册
-  ![image](https://github.com/user-attachments/assets/fccfc6a7-15a4-4d1d-86a7-23774a59a69a)
+  ![屏幕截图 2024-07-21 131956](https://github.com/user-attachments/assets/9d55189f-a83b-4b15-80d6-29878c16f1c4)
+
 - 普通用户主页
-  ![image](https://github.com/user-attachments/assets/c752542a-90b7-4ff9-9df0-840d19523429)
+  ![屏幕截图 2024-07-21 134722](https://github.com/user-attachments/assets/beb1c06c-ff7d-4a80-9183-898d2d62dfa9)
+
 - 查看接口
-  ![image](https://github.com/user-attachments/assets/41687ea7-81c8-456f-a0cc-9eac58251e2a)
-- 用户中心
-  ![image](https://github.com/user-attachments/assets/e5bc9c7f-1f88-4fa4-8cef-b1d75eb043e5)
+  ![屏幕截图 2024-07-21 134645](https://github.com/user-attachments/assets/a1649650-e265-40dc-b610-11cf853fac00)
+
+
 - 管理员界面
-  ![image](https://github.com/user-attachments/assets/c13bbd75-f703-4610-b9fd-b91f1bb7d8cd)
+![屏幕截图 2024-07-21 140000](https://github.com/user-attachments/assets/57615400-dd6e-424a-8b69-d06b58f27455)
+
   -接口管理
-  ![image](https://github.com/user-attachments/assets/1fce4a6c-7fa8-410b-a433-8648b054581c)
+  ![屏幕截图 2024-07-21 135110](https://github.com/user-attachments/assets/aacd8af7-ceb5-417a-9fa3-ebcb54be0516)
 
 
 
